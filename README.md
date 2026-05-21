@@ -10,25 +10,6 @@ This repository contains all the tasks completed during the ShadowFox Python Dev
 
 # 📂 Repository Structure
 
-ShadowFox
-│
-├── Beginner
-│   ├── Variables
-│   ├── Numbers
-│   ├── List
-│   ├── If_Condition
-│   ├── For_Loop
-│   
-│   
-│  
-│  
-│
-├── Intermediate
-│
-├── Advanced
-│
-└── README.md
-
 > Beginner Level Tasks
 1. Variables:
      * Topics Covered:
