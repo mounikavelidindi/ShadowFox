@@ -129,7 +129,7 @@ Navigate to the project folder.
 python hangman.py
 
 
-** Advanced Cricket Fielding Analysis using IPL Sample Data**
+> Advanced Cricket Fielding Analysis using IPL Sample Data
 
 ## 🏏 Advanced Cricket Fielding Analysis - IPL
 
