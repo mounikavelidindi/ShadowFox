@@ -66,3 +66,65 @@ This repository contains all the tasks completed during the ShadowFox Python Dev
       Python,
       VS Code,
       GitHub.
+
+> Intermediate Level Tasks
+>  🌟 ShadowFox Internship – Intermediate Level Projects 🦊✨
+
+This repository contains my Intermediate Level internship projects completed as part of the ShadowFox Internship Program. These projects helped me improve my Python programming, problem-solving, and automation skills. 🚀
+
+# 🌐 Project 1: Web Scraper using Python 🕸️🐍
+
+## 📌 Description
+This project is a simple Web Scraper developed using Python. It extracts data from a website automatically and stores the collected information into a CSV file.
+
+The project demonstrates:
+- 🌐 Web Scraping
+- 🏗️ HTML Parsing
+- 📥 Data Extraction
+- 📄 CSV File Handling
+
+## 🛠️ Technologies Used
+- Python 🐍
+- Requests Library 🌍
+- BeautifulSoup 🥣
+- CSV Module 📄
+
+## 📂 Files Included
+- `webscraper.py` 💻
+- `scraped_data.csv` 📊
+- `README.md` 📝
+
+## ▶️ How to Run the Project
+
+### 1️⃣ Install Required Libraries
+```bash
+pip install requests beautifulsoup4
+
+# 🎮 Project 2 : Hangman game using python 🐍*
+
+## 📌 Description
+This project is a simple Hangman Game developed using Python. The player has to guess the hidden word letter by letter before all attempts are completed.
+
+The project demonstrates:
+- 🔁 Loops
+- ⚡ Conditional Statements
+- 📋 Lists
+- 🔤 String Handling
+- 🎮 Game Logic Development
+
+## 🛠️ Technologies Used
+- Python 🐍
+
+## 📂 Files Included
+- `hangman.py` 💻
+- `README.md` 📝
+
+## ▶️ How to Run the Project
+
+### 1️⃣ Open Terminal
+Navigate to the project folder.
+
+### 2️⃣ Run the Python File
+```bash
+python hangman.py
+
